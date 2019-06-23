@@ -1,0 +1,2 @@
+exports.ids=[3],exports.modules={100:function(e,t,n){"use strict";n.r(t);var r={middleware:"page"},c=n(2);var component=Object(c.a)(r,function(){var e=this.$createElement;return(this._self._c||e)("section",{staticClass:"container"},[this._ssrNode("\n  index 页面zz\n")])},[],!1,function(e){},null,"6eeb84e0");t.default=component.exports}};
+//# sourceMappingURL=c44290beb83a0c8f5de4.js.map

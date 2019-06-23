@@ -1,0 +1,13 @@
+body {
+    background: red;
+}
+
+.l-enter-active,
+.l-leave-active {
+    transition: opacity .5s;
+}
+
+.l-enter,
+.l-leave-active {
+    opacity: 0;
+}

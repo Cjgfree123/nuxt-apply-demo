@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{274:function(n,e,t){"use strict";t.r(e);var c={middleware:"page"},l=t(17),component=Object(l.a)(c,function(){var n=this.$createElement;return(this._self._c||n)("section",{staticClass:"container"},[this._v("\n  index 页面zz\n")])},[],!1,null,null,null);e.default=component.exports}}]);

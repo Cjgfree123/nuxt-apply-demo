@@ -1,5 +1,5 @@
-# nuxt-login
-nuxt入门
+# nuxt2-learn
+nuxt2 入门
 
 ## 运行
 
